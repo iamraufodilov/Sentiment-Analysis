@@ -1,11 +1,3 @@
-#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-# INTRODUCTION
-
-#In this kernel, we explore a simple implementation of the NLP technique known as sentiment analysis, 
-#which attempts to quantify the tonal properties of a text dataset. This is done using the TextBlob library, 
-#and is applied to the 'A Million News Headlines' dataset – a corpus of over one million news article headlines published by the ABC.
-
-
 # loading necessary libraries
 import numpy as np
 import pandas as pd
