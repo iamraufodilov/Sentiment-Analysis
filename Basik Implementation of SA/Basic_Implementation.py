@@ -63,3 +63,11 @@ ax[1].plot(yearly_averages['polarity'], 'r--', label='Yearly mean polarity');
 ax[1].set_title('Mean polarity scores');
 ax[1].legend(loc='upper left');
 #_>plt.show()
+
+#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# CONCLUSION
+
+'''
+This is light model for sentiment alalysis with Python.
+Here TextBlob library used to analyse text.
+'''
